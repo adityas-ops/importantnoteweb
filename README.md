@@ -97,14 +97,14 @@ term
 - [ ] Contact the media
 
 #### 2. Cammand of GitHub
- Git status
- Git init
-Create git repository
- Git remote add origin url
- Git add .
- Git commit -m “comment”
- git push origin master
-Delete git from any folder 
-rm -rf .git
+ Git status  
+ Git init  
+ Create git repository  
+ Git remote add origin url  
+ Git add .  
+ Git commit -m “comment”  
+ git push origin master  
+Delete git from any folder   
+rm -rf .git  
 
 
